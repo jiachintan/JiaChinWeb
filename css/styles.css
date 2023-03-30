@@ -25,6 +25,12 @@ body {
     font-family: 'Montserrat', sans-serif;
   }
 
+  h4 {
+        color: #66BFBF;
+        font-family: 'Montserrat', sans-serif;
+        font-style: italic;
+  }
+
   p {
     line-height: 2;
   }
